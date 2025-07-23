@@ -2,6 +2,7 @@
 AI360_minds is a collaborative repository for PLP Week 6 assignment, exploring Edge AI, Quantum AI, Human-AI collaboration, Smart Cities, IoT, and Ethics in AI. It includes theoretical analysis, practical implementations, a futuristic AI proposal, and a quantum bonus task.
 
 # Folder Structure (template)
+```
 AI360_Minds/
 │
 ├── Part1_Theoretical_Analysis/
@@ -32,3 +33,4 @@ AI360_Minds/
 │   └── workflow_diagram.png
 │
 └── README.md
+```
