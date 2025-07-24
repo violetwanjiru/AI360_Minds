@@ -1,3 +1,26 @@
+🟣 Part 1: Short Answer Questions – Evaluation & Deployment (8 points)
+
+Select 2 evaluation metrics and explain
+
+Accuracy: Accuracy measures the proportion of correct predictions over total predictions. It’s useful when classes are balanced but can be misleading in imbalanced datasets.
+
+F1-Score: The F1-score balances precision and recall, making it valuable for imbalanced datasets (e.g., in healthcare where false negatives can be critical). It helps assess model performance where both false positives and false negatives matter.
+
+Explain concept drift and how to monitor
+
+Concept drift occurs when the statistical properties of the target variable change over time, reducing model performance. For example, a model predicting consumer behavior might degrade when customer preferences evolve.
+
+Monitoring approaches:
+
+Track performance metrics (e.g., accuracy, F1) over time.
+
+Use data drift detection tools like Kolmogorov–Smirnov test or ADWIN.
+
+Re-train models periodically or when drift is detected.
+
+Describe 1 technical challenge
+
+A common challenge is integrating machine learning models into production environments. For example, aligning a model’s dependencies, runtime, and scalability with existing infrastructure can require containerization (e.g., using Docker) and orchestration tools like Kubernetes for deployment
 🟣 Part 2: Case Study Application
 
 **A. Problem Scope (5 points)**
