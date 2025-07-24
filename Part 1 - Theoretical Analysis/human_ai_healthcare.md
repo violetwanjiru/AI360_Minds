@@ -1,6 +1,7 @@
-🔷 Q3: Human-AI Collaboration in Healthcare
-**Discuss the societal impact of Human-AI collaboration in healthcare. How might it transform roles like radiologists
-or nurses?**
+# Q3: Human-AI Collaboration in Healthcare
+
+**Discuss the societal impact of Human-AI collaboration in healthcare. How might it transform roles like radiologists or nurses?**
+
 Human-AI collaboration in healthcare has the potential to revolutionize service delivery, improve outcomes, 
 and increase access to quality care. AI systems can now analyze medical images, predict patient deterioration, 
 and assist in administrative tasks, complementing human professionals rather than replacing them.
